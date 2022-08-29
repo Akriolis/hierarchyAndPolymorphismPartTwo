@@ -1,0 +1,1 @@
+Few lines of practice code and examples how hierarchy and polymorphism work in Kotlin
